@@ -1,0 +1,12 @@
+title: Hi
+author:
+  name: ramesh2051
+  email: ****
+
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+description: >
+  GitHub Documents
+# Build settings
+
+theme: minima
